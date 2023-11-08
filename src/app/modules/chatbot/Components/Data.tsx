@@ -34,12 +34,5 @@ const dataTable = [
     Type: 'murree',
     Size: '128kb',
   },
-  {
-    id: 5,
-    Name: 'Lord smith',
-    Data: 'Systme assitant',
-    Type: 'murree',
-    Size: '128kb',
-  },
 ]
 export default dataTable
